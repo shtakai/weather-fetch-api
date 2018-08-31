@@ -1,5 +1,7 @@
 # Weather App
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/weather-fetch-api.svg)](https://www.guardrails.io)
+
 Repository created for study and creation app weather using ES6 - fetch API + webpack.
 
 ![Example running](src/img/weather.gif)
